@@ -4,8 +4,9 @@ layout: post
 ---
 
 We're looking for smart people to join the tech team at Octopus Energy, to help
-build out our initial set of infrastructure. To start with, our main
-technologies will be:
+build the energy company of the future. Through total automation we will help bring the cost of energy down, deliver awesome customer service and help transition the UK to a lower carbon future.
+
+We are just weeks into the task, so you've got the chance to join early and help define our plans. Currently, our main technologies are:
 
 - Python - particularly Django and data processing libraries like numpy or pandas;
 - Postgres and Redis;
@@ -14,9 +15,8 @@ technologies will be:
 
 Our current priorities lie with server side work so we're keen to
 speak to Pythonistas or anyone with a love of automation and data processing.
-But we're always interesting in talking to smart, motivated people with an
-interest in green tech - but we'd love to hear from anyone with experience in the
-above. 
+But we're always interested in talking to smart, motivated people with an
+interest in green tech or big data.
 
 Could this be you?
 
@@ -30,7 +30,9 @@ We hope so. Ideally, you'll have experience in one or more of the following:
 - Experience working with 3rd party APIs, eg XML webservices, REST APIs, FTP
   filedrops, that kind of thing.
 
-This is a great opportunity to be an early employee at a revolutionary company.
+Octopus is backed by a multi-billion pound fund, so whilst we're a startup we're well backed from day one. Octopus is serious about renewable energy, already having built c. 40% of the UK's large scale solar, as well as wind, biogas and other generation.
+
+This is a great opportunity to join right at the beginning of a revolutionary company in one of the most important sectors of the economy.
 Get in touch via [talent@octoenergy.com](mailto:talent@octoenergy.com).
 
 
